@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-brand:hover{
+    color:black;
+}
+
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color:black;
+    text-transform: uppercase;
+}
+
+.nav-link:hover{
+    color:black;
+}
+
+.search{
+    height:40px;
+    width:80%;
+    border-radius: 60px;
+    outline:none;
+    border: 2px solid rgb(248,26,92);
+    margin-right:-35px;
+    font-family: 'Rubik',sans-serif;
+}
+
+.btn0{
+    height:40px;
+    width:40%;
+    outline:none;
+    border: none;
+    background:rgb(248,26,92);
+    color:white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+.main{
+    background: url(organic.jpeg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100%;
+    background-position: 50% 50%;
+}
+
+.main h1{
+    font-size:4rem;
+    font-weight: 700;
+    
+}
+
+.btn1{
+    height: 45px;
+    width: 35%;
+    border:none;
+    outline: none;
+    background-color:rgb(248,26,92);
+    color:white;
+    font-weight: 700;
+    border-radius:60px;
+    padding-top:-30px;
+}
+
+div.col-lg-4{
+    height:20px;
+}
+
+
+.apple{
+    background:url(i55.avif)no-repeat;
+    width:100%;
+    background-size:cover;
+    height:80vh;
+    margin:auto;
+}
+
+
+
